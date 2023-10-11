@@ -18,11 +18,13 @@
     "@angular/platform-browser": "^16.2.0",
     "@angular/platform-browser-dynamic": "^16.2.0",
     "@angular/router": "^16.2.0",
+    "nexmo-client": "^9.4.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
+    "@types/socket.io-client": "^1.4.32",
     "@angular-devkit/build-angular": "^16.2.5",
     "@angular/cli": "^16.2.5",
     "@angular/compiler-cli": "^16.2.0",
